@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<Version>0.0.1</Version>
+		<TargetFramework>net5.0</TargetFramework>
+		<Description>.NET 高性能对象映射器。</Description>
+	</PropertyGroup>
+
+</Project>
+
